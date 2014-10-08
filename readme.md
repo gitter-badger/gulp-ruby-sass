@@ -1,4 +1,5 @@
 # gulp-ruby-sass [![Build Status](https://travis-ci.org/sindresorhus/gulp-ruby-sass.svg?branch=master)](https://travis-ci.org/sindresorhus/gulp-ruby-sass)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/marani/gulp-ruby-sass?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > Compile Sass to CSS with [Ruby Sass](http://sass-lang.com/install)
 
